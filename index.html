@@ -15,7 +15,7 @@
     • 把內文裡的 <sup class="ref" data-ref="鍵名"></sup> 依出現順序編號，
       並在 <div class="reflist" data-auto="references"></div> 填入註釋清單
     • 渲染右側資訊框、頁尾導航框、來源說明
-  所有連結與「顯示／隱藏」字樣都只是外觀，沒有實際功能。
+  目次的項目可以點擊，會捲動到對應章節；其餘連結與「顯示／隱藏」字樣都只是外觀，沒有實際功能。
 -->
 <style>
 /* ---------- 設計變數 ---------- */
@@ -38,7 +38,8 @@
 
 /* ---------- 頁面骨架 ---------- */
 * { box-sizing: border-box; }
-html { background: var(--bg-page); }
+html { background: var(--bg-page); scroll-behavior: smooth; }
+h2, h3, h4, h5 { scroll-margin-top: .6em; }
 body {
   margin: 0; color: var(--text); background: var(--bg-page);
   font-family: var(--font-body); font-size: 14px; line-height: 1.6;
@@ -267,26 +268,26 @@ sup.ref.missing a { color: #d33; }
     t.parentNode.insertBefore(w, t); w.appendChild(t);
   });
 
-  /* ---------- 目次（自動編號） ---------- */
+  /* ---------- 目次（自動編號；項目連到對應章節的錨點） ---------- */
   (function buildToc() {
     var secs = A.sections || [];
     if (!secs.length) { $('#toc').remove(); return; }
     // 先整理成樹，再輸出巢狀清單
     var root = { children: [] }, stack = [root], counters = [];
-    secs.forEach(function (s) {
+    secs.forEach(function (s, i) {
       var lv = Math.min(Math.max(s.level || 2, 2), 6) - 2;
       if (lv > stack.length - 1) lv = stack.length - 1;      // 跳級時貼齊上一層
       stack = stack.slice(0, lv + 1);
       counters = counters.slice(0, lv + 1);
       counters[lv] = (counters[lv] || 0) + 1;
-      var node = { num: counters.join('.'), text: stripTags(s.title), children: [] };
+      var node = { num: counters.join('.'), text: stripTags(s.title), id: s.id || ('section-' + (i + 1)), children: [] };
       stack[lv].children.push(node);
       stack.push(node);
     });
     function render(nodes) {
       if (!nodes.length) return '';
       return '<ul>' + nodes.map(function (n) {
-        return '<li><a><span class="tocnumber">' + n.num + '</span><span class="toctext">' + esc(n.text) + '</span></a>' + render(n.children) + '</li>';
+        return '<li><a href="#' + esc(n.id) + '"><span class="tocnumber">' + n.num + '</span><span class="toctext">' + esc(n.text) + '</span></a>' + render(n.children) + '</li>';
       }).join('') + '</ul>';
     }
     $('#toc').innerHTML = '<div class="toctitle"><h2>目次</h2></div>' + render(root.children);
