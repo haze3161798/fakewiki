@@ -1,0 +1,12 @@
+# 不上傳到 GitHub Pages 的檔案
+對話紀錄*.md
+data.hk416.js
+# assets 只保留頁面用到的圖片
+assets/*
+!assets/SOURCES.txt
+!assets/flags/
+!assets/AC-9_*.jpg
+!assets/FN_SCAR-L_noBG.png
+!assets/HK416N.png
+!assets/M16A4_nukeit1_.jpg
+!assets/T91-3__65_.JPG

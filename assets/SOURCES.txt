@@ -1,0 +1,90 @@
+圖片來源清單（本地檔名 	 原始檔名 	 維基共享資源頁面）。各圖授權不同，使用前請到來源頁面確認。
+assets/flags/albania.png	Albania	https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg
+assets/flags/australia.png	Australia	https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg
+assets/flags/austria.png	Austria	https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg
+assets/flags/bangladesh.png	Bangladesh	https://commons.wikimedia.org/wiki/File:Flag_of_Bangladesh.svg
+assets/flags/belgium.png	Belgium	https://commons.wikimedia.org/wiki/File:Flag_of_Belgium_(civil).svg
+assets/flags/brazil.png	Brazil	https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg
+assets/flags/canada.png	Canada	https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg
+assets/flags/croatia.png	Croatia	https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg
+assets/flags/czech_republic.png	Czech Republic	https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg
+assets/flags/estonia.png	Estonia	https://commons.wikimedia.org/wiki/File:Flag_of_Estonia.svg
+assets/flags/finland.png	Finland	https://commons.wikimedia.org/wiki/File:Flag_of_Finland.svg
+assets/flags/france.png	France	https://commons.wikimedia.org/wiki/File:Flag_of_France.svg
+assets/flags/germany.png	Germany	https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg
+assets/flags/hungary.png	Hungary	https://commons.wikimedia.org/wiki/File:Flag_of_Hungary.svg
+assets/flags/indonesia.png	Indonesia	https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg
+assets/flags/isle_of_man.png	Isle of Man	https://commons.wikimedia.org/wiki/File:Flag_of_the_Isle_of_Man.svg
+assets/flags/italy.png	Italy	https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg
+assets/flags/japan.png	Japan	https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg
+assets/flags/jordan.png	Jordan	https://commons.wikimedia.org/wiki/File:Flag_of_Jordan.svg
+assets/flags/kosovo.png	Kosovo	https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg
+assets/flags/lithuania.png	Lithuania	https://commons.wikimedia.org/wiki/File:Flag_of_Lithuania.svg
+assets/flags/luxembourg.png	Luxembourg	https://commons.wikimedia.org/wiki/File:Flag_of_Luxembourg.svg
+assets/flags/malaysia.png	Malaysia	https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg
+assets/flags/moldova.png	Moldova	https://commons.wikimedia.org/wiki/File:Flag_of_Moldova.svg
+assets/flags/montenegro.png	Montenegro	https://commons.wikimedia.org/wiki/File:Flag_of_Montenegro.svg
+assets/flags/netherlands.png	Netherlands	https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg
+assets/flags/norway.png	Norway	https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg
+assets/flags/philippines.png	Philippines	https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg
+assets/flags/poland.png	Poland	https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg
+assets/flags/portugal.png	Portugal	https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg
+assets/flags/roc.png	ROC	https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg
+assets/flags/republic_of_ireland.png	Republic of Ireland	https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg
+assets/flags/romania.png	Romania	https://commons.wikimedia.org/wiki/File:Flag_of_Romania.svg
+assets/flags/russia.png	Russia	https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg
+assets/flags/serbia.png	Serbia	https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg
+assets/flags/singapore.png	Singapore	https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg
+assets/flags/slovakia.png	Slovakia	https://commons.wikimedia.org/wiki/File:Flag_of_Slovakia.svg
+assets/flags/slovenia.png	Slovenia	https://commons.wikimedia.org/wiki/File:Flag_of_Slovenia.svg
+assets/flags/south_korea.png	South Korea	https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg
+assets/flags/spain.png	Spain	https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg
+assets/flags/switzerland.png	Switzerland	https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland.svg
+assets/flags/tunisia.png	Tunisia	https://commons.wikimedia.org/wiki/File:Flag_of_Tunisia.svg
+assets/flags/turkey.png	Turkey	https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg
+assets/flags/ukraine.png	Ukraine	https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg
+assets/flags/united_kingdom.png	United Kingdom	https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom.svg
+assets/flags/united_states.png	United States	https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg
+assets/M4_HK416_barrel_comparison.png	M4 HK416 barrel comparison.svg	https://commons.wikimedia.org/wiki/File:M4_HK416_barrel_comparison.svg
+assets/AR15_HK416_trigger.png	AR15 HK416 trigger.png	https://commons.wikimedia.org/wiki/File:AR15_HK416_trigger.png
+assets/HK416_trigger_operate.png	HK416 trigger operate.png	https://commons.wikimedia.org/wiki/File:HK416_trigger_operate.png
+assets/Stanag_mags.jpg	Stanag mags.jpg	https://commons.wikimedia.org/wiki/File:Stanag_mags.jpg
+assets/132e_RIC_14_juillet_2019.jpg	132e RIC 14 juillet 2019.jpg	https://commons.wikimedia.org/wiki/File:132e_RIC_14_juillet_2019.jpg
+assets/Min._Kupiecki_w_DWS_01.jpg	Min._Kupiecki_w_DWS_01.jpg	https://commons.wikimedia.org/wiki/File:Min._Kupiecki_w_DWS_01.jpg
+assets/Korps_Commandotroepen__28KCT_29_Heeresbergf_hrer_course_in_Austria.jpg	Korps_Commandotroepen_%28KCT%29_Heeresbergführer_course_in_Austria.jpg	https://commons.wikimedia.org/wiki/File:Korps_Commandotroepen_%2528KCT%2529_Heeresbergf%C3%BChrer_course_in_Austria.jpg
+assets/Polish_SOF_Lisbon_NATO_Trident_Juncture_15_22182255143_.jpg	Polish SOF, Lisbon, NATO Trident Juncture 15 (22182255143).jpg	https://commons.wikimedia.org/wiki/File:Polish_SOF%2C_Lisbon%2C_NATO_Trident_Juncture_15_%2822182255143%29.jpg
+assets/Polish_SOF_Lisbon_NATO_Trident_Juncture_15_22384981827_.jpg	Polish SOF, Lisbon, NATO Trident Juncture 15 (22384981827).jpg	https://commons.wikimedia.org/wiki/File:Polish_SOF%2C_Lisbon%2C_NATO_Trident_Juncture_15_%2822384981827%29.jpg
+assets/A_Norwegian_military_police_officer_stands_guard_during_a_live-fire_capabilities_demonstration_as_part_of_exercise_Cold_Response_14_in_Norway_March_11_2014_140311-M-PK171-614.jpg	A Norwegian military police officer stands guard during a live-fire capabilities demonstration as part of exercise Cold Response 14 in Norway March 11, 2014 140311-M-PK171-614.jpg	https://commons.wikimedia.org/wiki/File:A_Norwegian_military_police_officer_stands_guard_during_a_live-fire_capabilities_demonstration_as_part_of_exercise_Cold_Response_14_in_Norway_March_11%2C_2014_140311-M-PK171-614.jpg
+assets/Latvian_Independence_Day_military_parade_256_26749498896_.jpg	Latvian Independence Day military parade 256 (26749498896).jpg	https://commons.wikimedia.org/wiki/File:Latvian_Independence_Day_military_parade_256_%2826749498896%29.jpg
+assets/MARSOF_Afghanistan-10.jpg	MARSOF Afghanistan-10.jpg	https://commons.wikimedia.org/wiki/File:MARSOF_Afghanistan-10.jpg
+assets/CENZUB-HK.jpg	CENZUB-HK.jpg	https://commons.wikimedia.org/wiki/File:CENZUB-HK.jpg
+assets/Oefening_GBB_2020_05.jpg	Oefening GBB 2020 05.jpg	https://commons.wikimedia.org/wiki/File:Oefening_GBB_2020_05.jpg
+assets/IEA_Mil_Optics_GmbH_HK_G95_m_Eotech_EXPS_und_G33.jpg	IEA Mil Optics GmbH HK G95 m Eotech EXPS und G33.jpg	https://commons.wikimedia.org/wiki/File:IEA_Mil_Optics_GmbH_HK_G95_m_Eotech_EXPS_und_G33.jpg
+assets/HK_MR223.jpg	HK MR223.jpg	https://commons.wikimedia.org/wiki/File:HK_MR223.jpg
+assets/Opera_o_Amaz_nia_2014_15398459727_.jpg	Operação Amazônia 2014 (15398459727).jpg	https://commons.wikimedia.org/wiki/File:Opera%C3%A7%C3%A3o_Amaz%C3%B4nia_2014_%2815398459727%29.jpg
+assets/NorwegiansolderHK416.jpg	NorwegiansolderHK416.jpg	https://commons.wikimedia.org/wiki/File:NorwegiansolderHK416.jpg
+assets/Pokazy_z_okazji_wi_ta_Wojsk_Specjalnych_26.05.2011.jpg	Pokazy z okazji Święta Wojsk Specjalnych 26.05.2011.jpg	https://commons.wikimedia.org/wiki/File:Pokazy_z_okazji_%C5%9Awi%C4%99ta_Wojsk_Specjalnych_26.05.2011.jpg
+assets/GIGN4_Domenjod_160316.jpg	GIGN4 Domenjod 160316.jpg	https://commons.wikimedia.org/wiki/File:GIGN4_Domenjod_160316.jpg
+assets/HK416_in_Samaria.jpg	HK416 in Samaria.jpg	https://commons.wikimedia.org/wiki/File:HK416_in_Samaria.jpg
+assets/LAPD_SWAT_Exercise_1.jpg	LAPD SWAT Exercise 1.jpg	https://commons.wikimedia.org/wiki/File:LAPD_SWAT_Exercise_1.jpg
+assets/Special_Operations_Air_Insertion_RIMPAC_2014_140710-N-PX130-101.jpg	Special Operations Air Insertion, RIMPAC 2014 140710-N-PX130-101.jpg	https://commons.wikimedia.org/wiki/File:Special_Operations_Air_Insertion%2C_RIMPAC_2014_140710-N-PX130-101.jpg
+assets/5_45mm_AK-12_6P70_assault_rifle_at_Military-technical_forum_ARMY-2016_03.jpg	5,45mm_AK-12_6P70_assault_rifle_at_Military-technical_forum_ARMY-2016_03.jpg	https://commons.wikimedia.org/wiki/File:5%2C45mm_AK-12_6P70_assault_rifle_at_Military-technical_forum_ARMY-2016_03.jpg
+assets/M16A4_nukeit1_.jpg	M16A4 (nukeit1).jpg	https://commons.wikimedia.org/wiki/File:M16A4_%28nukeit1%29.jpg
+assets/FN_SCAR-L_noBG.png	FN SCAR-L noBG.png	https://commons.wikimedia.org/wiki/File:FN_SCAR-L_noBG.png
+assets/HK416N.png	HK416N.png	https://commons.wikimedia.org/wiki/File:HK416N.png
+assets/GewehrAG36.jpg	GewehrAG36.jpg	https://commons.wikimedia.org/wiki/File:GewehrAG36.jpg
+assets/Beretta_AR_with_thermal_sight_and_grenade_launcher.jpg	Beretta AR with thermal sight and grenade launcher.jpg	https://commons.wikimedia.org/wiki/File:Beretta_AR_with_thermal_sight_and_grenade_launcher.jpg
+assets/Stgw_90.jpg	Stgw 90.jpg	https://commons.wikimedia.org/wiki/File:Stgw_90.jpg
+assets/T91-3__65_.JPG	T91-3_(65).JPG	https://commons.wikimedia.org/wiki/File:T91-3_%2865%29.JPG
+assets/M4_MR556_Lower.png	M4 MR556 Lower.png	https://commons.wikimedia.org/wiki/File:M4_MR556_Lower.png
+assets/M4_MR556_Upper_1.png	M4 MR556 Upper 1.png	https://commons.wikimedia.org/wiki/File:M4_MR556_Upper_1.png
+assets/M4_MR556_Upper_2.png	M4 MR556 Upper 2.png	https://commons.wikimedia.org/wiki/File:M4_MR556_Upper_2.png
+assets/Korps_Commandotroepen__KCT__Heeresbergf_hrer_course_in_Austria.jpg	Korps_Commandotroepen_(KCT)_Heeresbergführer_course_in_Austria.jpg	https://commons.wikimedia.org/wiki/File:Korps_Commandotroepen_%28KCT%29_Heeresbergf%C3%BChrer_course_in_Austria.jpg
+assets/AC-9_full.jpg	（使用者提供的概念圖）	非維基共享資源；由圖像生成模型產生
+assets/AC-9_coils.jpg	同上，裁切自 AC-9_full.jpg（護木與線圈段）	—
+assets/AC-9_optic.jpg	同上，裁切自 AC-9_full.jpg（瞄具）	—
+assets/AC-9_upper.jpg	同上，裁切自 AC-9_full.jpg（上機匣）	—
+assets/AC-9_lower.jpg	同上，裁切自 AC-9_full.jpg（下機匣）	—
+assets/AC-9_magazine.jpg	同上，裁切自 AC-9_full.jpg（彈匣）	—
+assets/AC-9_stock.jpg	同上，裁切自 AC-9_full.jpg（槍托）	—
+assets/AC-9_muzzle.jpg	同上，裁切自 AC-9_full.jpg（槍口）	—
