@@ -15,7 +15,8 @@
     • 把內文裡的 <sup class="ref" data-ref="鍵名"></sup> 依出現順序編號，
       並在 <div class="reflist" data-auto="references"></div> 填入註釋清單
     • 渲染右側資訊框、頁尾導航框、來源說明
-  目次的項目可以點擊，會捲動到對應章節；其餘連結與「顯示／隱藏」字樣都只是外觀，沒有實際功能。
+  目次的項目可以點擊，會捲動到對應章節；站內（class="wl"）與站外（class="ext"）連結只要在 data.js 裡有 href 就能點開；
+  其餘連結與「顯示／隱藏」字樣都只是外觀，沒有實際功能。
 -->
 <style>
 /* ---------- 設計變數 ---------- */
@@ -51,8 +52,9 @@ body {
 }
 @media (max-width: 720px) { .page { padding: 1em 16px; border: 0; } }
 
-/* 連結只是外觀（沒有 href） */
+/* 沒有 href 的連結只是外觀；有 href 的可點擊 */
 a { color: var(--link); text-decoration: none; }
+a[href]:hover { text-decoration: underline; }
 a.ext::after {
   content: ""; display: inline-block; width: .7em; height: .7em; margin-left: .25em; vertical-align: baseline;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><path fill="%2336c" d="M6 1h5v5L9.2 4.2 5.4 8 4 6.6l3.8-3.8L6 1zM2 3h3v1.5H3.5v4h4V7H9v3H2V3z"/></svg>') no-repeat center / contain;
